@@ -1,0 +1,1 @@
+A simple C++ console application that manages a collection of books using file-based storage. It allows users to add, view, search, update, delete, sort, and export records. The project is implemented using Object-Oriented Programming (OOP) principles.
